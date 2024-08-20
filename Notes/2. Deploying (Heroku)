@@ -1,0 +1,19 @@
+## Video Transcript
+
+Start of transcript. Skip to the end.
+Welcome to the deployment lesson of Hello Django.
+In this lesson, you will prepare your small project for deployment, create an app on a cloud
+hosting provider, and deploy your project. The basic steps to deploying a project are
+always the same. We recommend that you deploy your projects early and regularly.
+It is not a good idea to leave deployment until the final minutes of a deadline.
+First, you will go through the text steps to deploy your project.
+In these steps, you will prepare your project by adding extra files and changing
+some of the contents of the settings.py file. When your project is successfully deployed,
+we will take a deeper dive into exactly what happens inside Django’s settings.py file.
+Then, we will investigate the importance of the requirements.txt file.
+Finally, you will be asked to re-deploy your project.
+There will then be a quiz to test your knowledge.
+As before, please follow the text steps closely and engage with the challenges in
+the code breakdown topics. Spending time on the challenges will be worth it because you will get
+a much deeper understanding of the topic. Now that you know what to expect in this
+lesson, return to your Hello World workspace and get ready to deploy!
